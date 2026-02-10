@@ -17,13 +17,10 @@
 <details>
   <summary>📊 GitHub Stats:</summary>
   <br>
-  ![Stats](./profile/stats.svg)
-  ![Top Languages](./profile/top-langs.svg)
-  ![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
-  <!-- <p align="center">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=thpsouza&show_icons=true&theme=radical" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thpsouza&layout=compact&theme=radical" />
-  </p> -->
+  <p align="center">
+    <!-- <img height="165" src="./profile/stats.svg" /> -->
+    <img height="165" src="./profile/top-langs.svg" />
+  </p>
 </details>
 
 ## 👤 Sobre mim:
