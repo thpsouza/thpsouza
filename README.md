@@ -1,8 +1,6 @@
 <h1 align="center"> Olá, eu sou o Thiago 👋 <br>
-<small class="absolute"> <small class="absolute"> Engenharia Química && Programação </small> </small>
-</h1>
 
-<!-- Sou Engenheiro Químico em formação. Utilizo a programação como ferramenta para resolver problemas relacionados à minha área, bem como para desenvolver meu próprios projetos pessoais. -->
+<h3 align="center"> Engenharia Química && Programação </h3> <br>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -11,21 +9,25 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🧪-Eng. Quím.-blue" />
-  <img src="https://img.shields.io/badge/📊-Simulação-orange" />
+  <img src="https://img.shields.io/badge/🧪-Engenharia Química-blue" />
+  <img src="https://img.shields.io/badge/📊-Métodos Numéricos-orange" />
   <img src="https://img.shields.io/badge/🧠-Machine%20Learning-purple" />
 </p>
 
-<!-- <details>
+<details>
   <summary>📊 GitHub Stats:</summary>
   <br>
-  <p align="center">
+  ![Stats](./profile/stats.svg)
+  ![Top Languages](./profile/top-langs.svg)
+  ![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
+  <!-- <p align="center">
     <img height="165" src="https://github-readme-stats.vercel.app/api?username=thpsouza&show_icons=true&theme=radical" />
     <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thpsouza&layout=compact&theme=radical" />
-  </p>
-</details> -->
+  </p> -->
+</details>
 
 ## 👤 Sobre mim:
+<!-- Sou Engenheiro Químico em formação. Utilizo a programação como ferramenta para resolver problemas relacionados à minha área, bem como para desenvolver meu próprios projetos pessoais. -->
 - 🎓 Estudante de Engenharia Química - **UFRJ**. 
 - 📐 Interesses em **fenômenos de transporte, termodinâmica e modelagem**
 - 💻 Utilizo a programação para resolver problemas de engenharia e desenvolver projetos pessoais.
