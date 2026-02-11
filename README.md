@@ -59,8 +59,8 @@ Sou estudante de **Engenharia Química pela UFRJ**. Utilizo a **programação** 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/thiago-p-de-souza)
 - 📧 thiagosouza@eq.ufrj.br
 
-
-## 📁 Projetos:
+<!-- 
+## 📁 Projetos: -->
 
 
 
