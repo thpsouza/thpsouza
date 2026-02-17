@@ -18,7 +18,7 @@
 
   <p align="center"> 
     <a href="https://thpsouza.github.io/equilibrio-etanol-agua-html">
-        🔬 <strong>Calculadora Interativa — Equilíbrio termodinâmico Etanol/Água</strong> 
+        🔬 <strong>Diagrama Interativo — Equilíbrio termodinâmico Etanol/Água</strong> 
     </a>
   </p>
 
@@ -71,7 +71,7 @@
   - 📧 thiagosouza@eq.ufrj.br
 
 
-  ## 📁 Projetos:
+  <!-- ## 📁 Projetos: -->
 
 
 
