@@ -2,7 +2,7 @@
 
   <h3 align="center"> Programação && Engenharia Química </h3>
 
-  <p align="center">
+  <!-- <p align="center">
     <a href="https://thpsouza.github.io/equilibrio-etanol-agua-html">
       <img 
       src="https://raw.githubusercontent.com/thpsouza/equilibrio-etanol-agua-html/main/preview/preview.gif" width="500"
@@ -20,7 +20,7 @@
     <a href="https://thpsouza.github.io/equilibrio-etanol-agua-html">
         🔬 <strong>Diagrama Interativo — Equilíbrio termodinâmico Etanol/Água</strong> 
     </a>
-  </p>
+  </p> -->
 
 
   ## 💻 Habilidades:
