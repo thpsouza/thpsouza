@@ -34,14 +34,11 @@
 <p align="center">
   <a href="https://github.com/thpsouza/engenharia-quimica">
     <img src="https://img.shields.io/badge/🧪-Engenharia Química-blue" />
-  </a>
-  <a href="https://github.com/thpsouza/metodos-numericos">
+  </a> <a href="https://github.com/thpsouza/metodos-numericos">
     <img src="https://img.shields.io/badge/📊-Métodos Numéricos-orange" />
-  </a>
-  <a href="https://github.com/thpsouza/tcc">
+  </a> <a href="https://github.com/thpsouza/tcc">
     <img src="https://img.shields.io/badge/📈-Simulação-success" />
-  </a>
-  <a href="https://github.com/thpsouza/cpp-projects">
+  </a> <a href="https://github.com/thpsouza/cpp-projects">
     <img src="https://img.shields.io/badge/🧠-Machine%20Learning-purple" />
   </a>
 </p>
