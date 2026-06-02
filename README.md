@@ -50,7 +50,7 @@
   ## 👤 Sobre mim:
 
   - 🎓 Estudante de Engenharia Química - **UFRJ**.
-  - 📐 Tenho Interesse nas áreas de **fenômenos de transporte, termodinâmica, modelagem, controle, métodos numéricos e simulação.**
+  - 📐 Tenho Interesse nas áreas de **Fenômenos de Transporte, Termodinâmica, Modelagem Dinâmica, Controle de Processos, Métodos Numéricos e Simulação.**
   - 💻 Utilizo a programação para resolver problemas de engenharia e desenvolver projetos pessoais.
   - 🔭 Atualmente explorando o campo de **Aprendizado de Máquina**.
 
